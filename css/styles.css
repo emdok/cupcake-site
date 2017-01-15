@@ -1,4 +1,35 @@
+h1 {
+  font-size: 60px;
+  color: white;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 40px;
+  font-family: cursive;
+}
+h3 {
+  font-family: sans-serif;
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+  font-family: monospace;
+}
+body {
+  text-align: center;
+  background-color: lightpink;
+}
+
 .flashy {
   color: red;
   font-style: italic;
+}
+.best {
+  text-align: center;
+  border: 5px solid green;
+  padding: 50px;
+  background: lightgreen;
+}
+ol {
+  list-style-type: none;
 }
